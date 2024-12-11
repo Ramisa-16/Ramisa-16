@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ramisa-16
-- 👀 I’m interested in Fedarated Learning, SQA, Data Analysis
+- 👀 I’m interested in Fedarated Learning, Ai, Data Analytics
 - 🌱 I’m currently learning Image Processing, Pattern Recognition
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ramisa.sharar.nidhi@g.bracu.ac.bd, ramisa.sharar377@gmail.com
