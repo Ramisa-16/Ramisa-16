@@ -97,13 +97,13 @@ skills = {
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ramisa-16&show_icons=true&theme=dark&hide_border=true&bg_color=012d35&title_color=00c9b1&icon_color=00c9b1&text_color=e8f4f6" alt="Ramisa's GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Ramisa-16&show_icons=true&theme=dark&hide_border=true&bg_color=012d35&title_color=00c9b1&icon_color=00c9b1&text_color=e8f4f6&cache_seconds=1800" alt="Ramisa's GitHub Stats"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramisa-16&layout=compact&theme=dark&hide_border=true&bg_color=012d35&title_color=00c9b1&text_color=e8f4f6&cache_seconds=1800" alt="Top Languages"/>
 </p>
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramisa-16&layout=compact&theme=dark&hide_border=true&bg_color=012d35&title_color=00c9b1&text_color=e8f4f6" alt="Top Languages"/>
+  <img src="https://streak-stats.demolab.com/?user=Ramisa-16&theme=dark&hide_border=true&background=012d35&ring=00c9b1&fire=00c9b1&currStreakLabel=00c9b1&sideLabels=00c9b1&dates=7ab5be" alt="GitHub Streak"/>
 </p>
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ramisa-16&theme=dark&hide_border=true&background=012d35&ring=00c9b1&fire=00c9b1&currStreakLabel=00c9b1" alt="GitHub Streak"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Ramisa-16&theme=darkhub&no-frame=true&row=1&column=6&margin-w=10" alt="GitHub Trophies"/>
 </p>
