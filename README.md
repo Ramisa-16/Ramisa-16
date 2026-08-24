@@ -35,7 +35,7 @@ I build AI systems that work in production — not just notebooks.
 
 ## 💼 Currently
 
-- 🏢 **AI Developer @ Betopia Group** — building AI across 17 Strategic Business Units
+- 🏢 **Software Developer @ Betopia Group** — building AI across 17 Strategic Business Units
 - 🎓 **MSc CSE @ BRAC University** — CGPA 4.00 / 4.00 · Specialising in Data Science
 - 📄 **Published Researcher** — IEEE ICREST 2025
 
